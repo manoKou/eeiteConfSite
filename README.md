@@ -1,2 +1,2 @@
 # eeiteConfSite
-This is a website i develop for TEI of Crete.
+This is a website i made for HMU.
